@@ -1,6 +1,5 @@
-#include<stdio.h>
-
 // Задача 1. Наибольшее из пяти чисел
+
 #include<stdio.h>
 
 int main(int argc, char const *argv[])
